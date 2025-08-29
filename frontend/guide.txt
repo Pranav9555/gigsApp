@@ -1,0 +1,3 @@
+- setup express with tailwind
+ - npm install tailwindcss @tailwindcss/vite
+ go in vite.config : import tailwindcss & import it in App.css
